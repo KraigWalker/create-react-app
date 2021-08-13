@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@rush-temp/react-scripts': file:./projects/react-scripts.tgz
+
+dependencies:
+  '@rush-temp/react-scripts': file:projects/react-scripts.tgz
+
+packages:
+
+  file:projects/react-scripts.tgz:
+    resolution: {integrity: sha512-Z6h+xWDESqBKFDkS0j2O7cQmBaqBMxsgiRDq5bFcfQPlMC/5vyHw3kNlae0wbEtM7ymugmzWvdmrc2LPLDu/ZA==, tarball: file:projects/react-scripts.tgz}
+    name: '@rush-temp/react-scripts'
+    version: 0.0.0
+    dev: false

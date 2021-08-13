@@ -1,0 +1,14 @@
+{
+  "name": "@kraigwalker/react-scripts",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {},
+  "license": "",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "bugs": "",
+  "files": [],
+  "bin": {},
+  "types": "./lib/react-app.d.ts"
+}
