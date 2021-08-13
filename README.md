@@ -1,4 +1,4 @@
-# @virginmoneyuk/create-react-app
+# @kraigwalker/create-react-app
 
 An ambitious development, build, and testing toolkit for brighter react web apps.
 
@@ -17,8 +17,8 @@ An ambitious development, build, and testing toolkit for brighter react web apps
 - An Advanced HTMLWebpackPlugin configuration that generates `rel="modulepreload preload"` and `rel="preload"` `<link />` tags in the `<head>`for entry chunks and static resources.
 - Support for non-blocking CSS stylesheet loading for enhanced initial load performance
 - Injected script tags use the `defer` attribute
-- Prettier support using the standardized `@virginmoneyuk/prettier-config` package
-- ESLint support using `@virginmoneyuk/esling-config` package
+- Prettier support using the standardized `@kraigwalker/prettier-config` package
+- ESLint support using `@kraigwalker/esling-config` package
 - Out-of-the-box Storybook JS support, with useful plugins setup like Axe Accessibility Testing.
 - Unit Test Support with `jest` and `@testing-library/react`
 - End-to-End Behaviour testing support with Cypress
